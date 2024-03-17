@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhupender</h1>
 <h3 align="center">Data Enthusiast || Eager to learn More about Data</h3>
 
+<img align="right" alt="Data" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhzdXNvZ2N1dmxjOTdtODYyZWEyb2k4Z2x2d2ZuNXhmMHN1M2ZweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif">
+
 - 🌱 I’m currently learning **Data Science and Machine Learning With Scaler**
 
 - 📫 How to reach me **Jhony0099@gmail.com**
