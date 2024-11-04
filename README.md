@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupender-bhupender&show_icons=true&locale=en&layout=compact" alt="bhupender-bhupender" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupender-bhupender&" alt="bhupender-bhupender" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BeingBhupender&" alt="BeingBhupender" /></p>
